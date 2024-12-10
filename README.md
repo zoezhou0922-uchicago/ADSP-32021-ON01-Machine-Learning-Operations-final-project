@@ -3,7 +3,6 @@
 - Model Training & AutoML Setup: [Member Name]
 - Deployment & Monitoring: [Member Name]
 - Final Presentation: [Member Name]
-- 
 
 
 ### Key Results
