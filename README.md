@@ -4,19 +4,7 @@
 - Deployment & Monitoring: [Member Name]
 - Final Presentation: [Member Name]
 - 
-├── README.md
-├── data/
-│   ├── california_housing_data.csv
-├── notebooks/
-│   ├── eda_and_modeling.ipynb
-├── scripts/
-│   ├── train_model.py
-│   ├── deploy_model.py
-├── results/
-│   ├── monitoring_visuals.png
-│   ├── rmse_results.txt
-└── video/
-    ├── final_project_demo.mp4
+
 
 ### Key Results
 - Best Algorithm: LightGBM
